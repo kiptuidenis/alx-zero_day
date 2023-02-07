@@ -1,1 +1,1 @@
-My first readme
+This repository contains files used in my first ALX task.
